@@ -1,7 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://mohdsaed.me"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mohammed Saed"
 theme = "mohdsaed-dark"
 
 [params]
+	author = "Mohammed Saed"
+	description = "Mohammed Saed's blog on computers, programming, travel, and life."
 	googleAnalytics = "G-M3PMJBEK4R"
