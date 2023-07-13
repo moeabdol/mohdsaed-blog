@@ -8,7 +8,7 @@ categories:
 - Computers
 - Keyboard
 tags:
-- Ergonomic
+- Ergonomics
 ---
 {{< coverimage "images/kenisis-1.jpg" "Kenisis Advantage 2" >}}
 
