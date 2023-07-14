@@ -1,4 +1,4 @@
-baseURL = "https://mohdsaed.me"
+baseURL = "https://mohdsaed.me/"
 languageCode = "en-us"
 title = "Mohammed Saed"
 theme = "mohdsaed-dark"
@@ -7,5 +7,6 @@ enableGitInfo = true
 
 [params]
 	author = "Mohammed Saed"
-	description = "Mohammed Saed's blog on computers, programming, travel, and life."
+	description = "Mohammed Saed's blog about computers, programming, and life."
 	googleAnalytics = "G-M3PMJBEK4R"
+	copyrightUrl = "/copyright/"
