@@ -9,3 +9,9 @@ enableGitInfo = true
 	author = "Mohammed Saed"
 	description = "Mohammed Saed's blog about computers, programming, and life."
 	googleAnalytics = "G-M3PMJBEK4R"
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.parser]
+			[markup.goldmark.parser.attribute]
+				block = true
