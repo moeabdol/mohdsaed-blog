@@ -1,20 +1,20 @@
 ---
 title: Kinesis Advantage 2
-subtitle: Kinesis Advantage 2
+subtitle: The Ultimate Programmer Keyboard
 date: 2023-07-13T06:51:01+03:00
 draft: false
 description: This is the description of the Kinesis Advantage 2 post
 summary: The Kinesis Advantage 2 is widely celebrated among hardcore programmers as the apex of ergonomic keyboards. It is Loved by many writers and programmers from all around the world. If you have wrist or arm pains from countless hours of typing, then look no further! This mechanical keyboard is built with ergonomics and speed in mind. No more finger twisting key combinations, or over-arching pinkie strokes. The Kinesis will awaken your long forgotten thumbs from their space slumber, and help you find new, effective, and more natural combinations.
-cover: "images/DSC05494.JPG"
+cover: "images/kinesis-1.JPG"
 cover_alt: Kinesis Advantage 2
 cover_caption: Kinesis Advantage 2
 cover_credit: © Mohammed Saed, 2023
 categories:
-- category1
-- category2
+- Computers
+- Programming
 tags:
-- tag1
-- tag2
+- Keyboard
+- Ergonomics
 ---
 
 ## Introduction
