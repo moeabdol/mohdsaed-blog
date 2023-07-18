@@ -4,11 +4,11 @@ subtitle: The Ultimate Programmer Keyboard
 date: 2023-07-13T06:51:01+03:00
 draft: false
 description: The Kinesis Advantage 2 is the apex of mechanical ergonomic keyboards. It comes with either tactile cherry brown or linear silent cherry red switches. Its concave key-wells help you maintain a relaxed pronated reach as you're able to press all keys without stretching out your hand. If you have wrist pains or simply want to type faster, the Kinesis Advantage 2 is your goto solution.
-summary: The Kinesis Advantage 2 is widely celebrated among hardcore programmers as the apex of ergonomic keyboards. It is Loved by many writers and programmers from all around the world. If you have wrist or arm pains from countless hours of typing, then look no further! This mechanical keyboard is built with ergonomics and speed in mind. No more finger twisting key combinations, or over-arching pinkie strokes. The Kinesis will awaken your long forgotten thumbs from their space slumber, and help you find new, effective, and more natural combinations.
+summary: The Kinesis Advantage 2 is widely celebrated among hardcore programmers as the grandfather of split keyboards. It is Loved by many writers and programmers from all around the world. If you have wrist or arm pains from countless hours of typing, then look no further! This mechanical keyboard is built with ergonomics and speed in mind. No more finger twisting key combinations, or over-arching pinkie strokes. The Kinesis will awaken your long forgotten thumbs from their space slumber, and help you find new, effective, and more natural combinations.
 cover: "images/kinesis-1.JPG"
 cover_alt: Kinesis Advantage 2
 cover_caption: Kinesis Advantage 2
-cover_credit: © Mohammed Saed, 2023
+cover_credit: © Mohammed Saed
 categories:
 - Computers
 - Programming
@@ -20,7 +20,7 @@ tags:
 ## Introduction
 ---
 The Kinesis Advantage 2 is widely celebrated among hardcore programmers as the
-apex of ergonomic keyboards. It is Loved by many writers and programmers from
+grandfather of split keyboards. It is Loved by many writers and programmers from
 all around the world. If you have wrist or arm pains from countless hours of
 typing, then look no further! This mechanical keyboard is built with ergonomics
 and speed in mind. No more finger twisting key combinations, or over-arching
@@ -31,24 +31,48 @@ space slumber, and help you find new, effective, and more natural combinations.
 ---
 {{< postimage src="images/haru-on-a-kinesis.jpg" caption="Haru on a Kinesis" float="right" >}}
 
-I have first encountered the Kinesis back in 2012. Back then I was studying for
-my master's degree in Tokyo, Japan. During my lab hours, I sat next to **Haru**
-a PhD student working on advanced game algorithms. He had an Arch Linux box
+I first encountered the Kinesis back in 2012. Back then I was studying for my
+master's degree in Tokyo, Japan. During my lab hours, I sat next to **Haru** a
+PhD student working on advanced game algorithms. He had an Arch Linux box
 running without a mouse and without any GUI whatsoever! On the other hand, I was
-proudly rocking my 2010 Apple MacBook Pro stuffed with applications I have
-bought from the App Store. I was a hardcore Apple fanboy, but I always kept
-peeking across at Haru's setup and thinking to myself this is ridiculous!
+proudly rocking my 2010 Apple MacBook Pro stuffed with applications from the App
+Store. I was a hardcore Apple fanboy, but I always kept peeking across at Haru's
+setup and thinking to myself this is ridiculous!
 
 Haru rarely spoke, as he knew very little English, and I very little Japanese.
-Whenever we spoke, it was hilarious as our debates usually turn into infant
-level English or Japanese. None the less, we have enjoyed each other's company
-and shared a mutual silent respect knowing we are all nerds in different ways.
+Whenever we communicated, it turned into a hilarious debate spoken in either
+infant level English or Japanese. None the less, we enjoyed each other's company
+and shared a silent mutual respect knowing we are all nerds with different
+tools. Haru was always amazing! He did everything from within the terminal. From
+writing code to surfing the Internet to sending emails and more. It was always
+enjoyable watching him do the things he did as his quick fingers rubbed
+naturally against the keyboard without ever leaving the home row.
 
-Haru was amazing! He did everything from the terminal. From writing code to
-surfing the Internet to sending emails and more. I was astonished to watch him
-do the things he do with a handful of tools.
+What struck me first about the Kinesis was its design. Most notably, the concave
+key-wells. I remember thinking to myself, this must be custom made for aesthetic
+purposes, but then I examined the layout and it had both the traditional Qwerty
+and Dvorak layouts printed on its key caps. I didn't understand the reasoning
+behind the design, and thought if I got used to that I might end up forgetting
+how to type on a regular keyboard. Little did I know that traditional keyboards
+were designed after the original typewriters of the 1800s. And that original
+layout design - although great at the time - remained almost unchanged until
+now!
 
-What struck me the most in Kinesis's design, was the concave key-wells it had. I
-didn't understand the reason behind the design, and thought it was defiantly
-aesthetics. It put me off at the beginning thinking if I got used to that I
-might end up forgetting how to type on a regular keyboard.
+## The Universal Keyboard Design
+---
+The original keyboard design was influenced heavily by the tactile typewriters
+of the 1800s. Almost all keyboards across all vendors follow the same universal
+design. You have the main keyboard area where you have your letters and
+punctuations. Then you have the number pad. This design was not finalized until
+the 80s. In fact most major computer companies of the 1900s; such as, IBM, and
+were imposing their own changes and ideas until the market finally settled on
+the current form.
+
+The current keyboard design is filled with flaws that descended form generations
+of typewriter and computer vendors.
+
+<!-- The first documented version of a typewriter is the [scrittura tattile][1] -->
+<!-- "tactile writer". It was built in 1575 by an Italian printmaker Francesco -->
+<!-- Rampazetto. The machine was meant to impress letters on paper. -->
+
+[1]:https://museocasertaolivetti.altervista.org/scrittura/ "scrittura tattile"
