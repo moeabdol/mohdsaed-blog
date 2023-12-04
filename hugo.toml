@@ -6,7 +6,7 @@ disqusShortname = "https-mohdsaed-me"
 enableGitInfo = true
 
 [params]
-	author = "Mohammed Saed"
+	authorName = "Mohammed Saed"
 	description = "Mohammed Saed's blog about computers, programming, and life."
 	googleAnalytics = "G-M3PMJBEK4R"
 
