@@ -2,7 +2,6 @@ baseURL = "https://mohdsaed.me/"
 languageCode = "en-us"
 title = "Mohammed Saed"
 theme = "mohdsaed-dark"
-disqusShortname = "https-mohdsaed-me"
 enableGitInfo = true
 
 [params]
