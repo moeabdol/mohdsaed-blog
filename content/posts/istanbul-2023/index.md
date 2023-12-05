@@ -8,7 +8,7 @@ summary: Istanbul previously known as Constantinople, a city so rich and strateg
 cover: "images/20231125_145410.jpg"
 cover_alt: Aksaray
 cover_caption: Aksaray
-cover_credit: © Mohammed Saed, 2023
+cover_credit: © Mohammed Saed
 categories:
 - Travel
 tags:
@@ -20,20 +20,23 @@ tags:
 
 ## Home Away From Home
 ---
-Wither you are from the east or the west, Turkey is a soup of cultures that have
-moved through or settled in since ancient times. There are no minorities or a
-predominant majority, people are of all colors, ethnecities, and religions.
-Mosques next to Churches and Kebabs served with noodles. I never felt astranged
-in Istanbul; on the contrary, I always felt at home.
+Wither you are from the east or west, Turkey is a soup of cultures that have
+moved through or settled in since ancient times. There are no minorities nor a
+predominant majority, people here are of all colors, ethnicities, and religions.
+Mosques next to Churches and Kebabs served with noodles. I never felt estranged
+in Istanbul; on the contrary, I always felt familiar and right at home. Being a
+middle eastern Muslim, I'm one step away from all the familiar foods. Mosques
+are everywhere and each with its own history and backstory.
 
 ## Constantinople
 ---
-There is a tremendious amount of history that you'll encounter in Istanbul. You
-can feel it as you walk down the streets and watch as the building stones change
-shape, texture and color. Some of these stones and buildings have been there for
-hundreds or even thousands of years.
+{{< postimage src="images/20231124_120307.jpg" caption="AlFatih Mosque" float="right" >}}
 
-Constantinople - modern day Istanbul - is an ancient city. Its location is very
-strategic as it's located at the fronsteps of Europe. It also is a gateway
-connecting two seas and making land and sea trades possible between Afric, Asia
-and Europe.
+As you walk down the streets of Istanbul, you can feel the tremendous history.
+Watching as building stones change shape, texture and color, you will realize
+that a lot have happened here. Some of these stones and buildings have been
+there for hundreds or even thousands of years. Constantinople - modern day
+Istanbul - is an ancient city. Its location is very strategic as it's located at
+the frontsteps of Europe. It's also a gateway connecting two continents, two
+seas and making possible air, land and sea trades across Africa, Asia and
+Europe.

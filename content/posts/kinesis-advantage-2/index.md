@@ -1,6 +1,6 @@
 ---
 title: Kinesis Advantage 2
-subtitle: The Ultimate Programmer Keyboard
+subtitle: The Ultimate Programming Keyboard
 date: 2023-07-13T06:51:01+03:00
 draft: false
 description: The Kinesis Advantage 2 is the apex of mechanical ergonomic keyboards. It comes with either tactile cherry brown or linear silent cherry red switches. Its concave key-wells help you maintain a relaxed pronated reach as you're able to press all keys without stretching out your hand. If you have wrist pains or simply want to type faster, the Kinesis Advantage 2 is your goto solution.
@@ -57,22 +57,3 @@ how to type on a regular keyboard. Little did I know that traditional keyboards
 were designed after the original typewriters of the 1800s. And that original
 layout design - although great at the time - remained almost unchanged until
 now!
-
-## The Universal Keyboard Design
----
-The original keyboard design was influenced heavily by the tactile typewriters
-of the 1800s. Almost all keyboards across all vendors follow the same universal
-design. You have the main keyboard area where you have your letters and
-punctuations. Then you have the number pad. This design was not finalized until
-the 80s. In fact most major computer companies of the 1900s; such as, IBM, and
-were imposing their own changes and ideas until the market finally settled on
-the current form.
-
-The current keyboard design is filled with flaws that descended form generations
-of typewriter and computer vendors.
-
-<!-- The first documented version of a typewriter is the [scrittura tattile][1] -->
-<!-- "tactile writer". It was built in 1575 by an Italian printmaker Francesco -->
-<!-- Rampazetto. The machine was meant to impress letters on paper. -->
-
-[1]:https://museocasertaolivetti.altervista.org/scrittura/ "scrittura tattile"
