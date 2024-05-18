@@ -19,13 +19,14 @@ tags:
 
 ## Introduction
 ---
-The Kinesis Advantage 2 is widely celebrated among hardcore programmers as the
-grandfather of split keyboards. It is Loved by many writers and programmers from
-all around the world. If you have wrist or arm pains from countless hours of
-typing, then look no further! This mechanical keyboard is built with ergonomics
-and speed in mind. No more finger twisting key combinations, or over-arching
-pinkie strokes. The Kinesis will awaken your long forgotten thumbs from their
-space slumber, and help you find new, effective, and more natural combinations.
+The Kinesis Advantage 2 is widely celebrated keyboard among hardcore programmers
+. It is considered the grandfather of split keyboards, and is Loved by many
+writers and programmers from all around the world. If you have wrist or arm
+pains from countless hours of typing, then look no further! This mechanical
+keyboard is built with ergonomics and speed in mind. No more finger twisting key
+combinations, or over-arching pinkie strokes. The Kinesis will awaken your long
+forgotten thumbs from their slumber, and help you find new, effective, and more
+natural combinations to achieve flawless, unpainful typing.
 
 ## First Encounter
 ---
@@ -36,16 +37,16 @@ master's degree in Tokyo, Japan. During my lab hours, I sat next to **Haru** a
 PhD student working on advanced game algorithms. He had an Arch Linux box
 running without a mouse and without any GUI whatsoever! On the other hand, I was
 proudly rocking my 2010 Apple MacBook Pro stuffed with applications from the App
-Store. I was a hardcore Apple fanboy, but I always kept peeking across at Haru's
-setup and thinking to myself this is ridiculous!
+Store. I was a hardcore Apple fanboy then, but I always kept peeking across at
+Haru's setup and thinking to myself this is why?!
 
 Haru rarely spoke, as he knew very little English, and I very little Japanese.
 Whenever we communicated, it turned into a hilarious debate spoken in either
 infant level English or Japanese. None the less, we enjoyed each other's company
-and shared a silent mutual respect knowing we are all nerds with different
-tools. Haru was always amazing! He did everything from within the terminal. From
-writing code to surfing the Internet to sending emails and more. It was always
-enjoyable watching him do the things he did as his quick fingers rubbed
+and shared a silent, mutual respect knowing we are all nerds with different
+toys. Haru never seized to amaze! He did everything from within the terminal.
+From writing code to surfing the Internet to sending emails and more. It was
+always enjoyable watching him do the things he did as his quick fingers rubbed
 naturally against the keyboard without ever leaving the home row.
 
 What struck me first about the Kinesis was its design. Most notably, the concave

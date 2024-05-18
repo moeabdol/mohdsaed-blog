@@ -20,17 +20,17 @@ tags:
 
 ## Home Away From Home
 ---
-Wither you are from the east or west, Turkey is a soup of cultures that have
-moved through or settled in since ancient times. There are no minorities nor a
-predominant majority, people here are of all colors, ethnicities, and religions.
-Mosques next to Churches and Kebabs served with noodles. I never felt estranged
-in Istanbul; on the contrary, I always felt familiar and right at home. Being a
-middle eastern Muslim, I'm one step away from all the familiar foods. Mosques
-are everywhere and each with its own history and backstory.
+Turkey is a soup of cultures that have moved through or settled in the region
+since ancient times. There are no minorities nor a predominant majority, people
+here are of all colors, ethnicities, and religions. Mosques next to Churches and
+Kebabs served with noodles. I never felt estranged in Istanbul; on the contrary,
+I always felt relevant and right at home. Being a middle eastern muslim myself,
+I'm one step away from all the familiar tastes and sounds. Mosques are
+everywhere, and each with its own unique history and backstory.
 
 ## Constantinople
 ---
-{{< postimage src="images/20231124_120307.jpg" caption="AlFatih Mosque" float="right" >}}
+{{< postimage src="images/20231124_120307.jpg" caption="AlFatih Mosque" float="left" >}}
 
 As you walk down the streets of Istanbul, you can feel the tremendous history.
 Watching as building stones change shape, texture and color, you will realize
@@ -39,4 +39,4 @@ there for hundreds or even thousands of years. Constantinople - modern day
 Istanbul - is an ancient city. Its location is very strategic as it's located at
 the frontsteps of Europe. It's also a gateway connecting two continents, two
 seas and making possible air, land and sea trades across Africa, Asia and
-Europe.
+Europe. No wonder why Romans wanted to calim it and crown it as the new Rome!
